@@ -26,7 +26,7 @@ It helps stakeholders understand financial trends and make data-driven decisions
 ---
 
 ## 📁 Project Files
-- **ALLEN_NSTI_KANPUR_Financial_Profit_&_Loss_Report.pbix**  
+- **SANJANA_NSTI_KANPUR_Financial_Profit_&_Loss_Report.pbix**  
   (Main Power BI dashboard file)
 
 ---
@@ -48,7 +48,7 @@ It helps stakeholders understand financial trends and make data-driven decisions
 ---
 
 ## 👤 Author
-**Name:** ALLEN FANIAL 
+**Name:** BABY SANJANA 
 **Institute:** National Skill Training Institute Kanpur
 **Course:** Artificial Intelligence Programming Assistant
 
